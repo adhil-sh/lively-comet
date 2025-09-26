@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Adhil Abdulla
+title: Adhil Abdulla M A
 
 # Name pronunciation (optional)
 name_pronunciation: ''
