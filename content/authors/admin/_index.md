@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Adhil Abdulla M A
+title: Adhil Abdulla
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,95 +23,74 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Project Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: IIT Madras
+    url: https://www.iitm.ac.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:adhilabdulla@alumni.iitm.ac.in'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/adhil-sh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/adhil-abdulla-ba09a3227/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: 
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: 
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  -Quanutm Information Theory
+  -Entanglement Dynamics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: M.Sc. Physics
+    institution: Indian Institute of Technology Madras
+    date_start: 2023-07-24
+    date_end: 2025-07-11
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      GPA: 8.57/10
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+      Specialized in Quantum Information Theory and Nonlinear Dynamics.
+  - area: B.Sc. Physics
+    institution: Govt. Brennen College, Thalassery
+    date_start: 2020-04-11
+    date_end: 2023-05-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 8.13/10
 
-      Minored in Mathematics. President of AI Club.
+      Minored in Mathematics, Chemistry.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Project Associate
+    company_name: IIT Madras
+    company_url: 'www.iitm.ac.in'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2025-08-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Leading research on entanglment in condensed matter models
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python & C++
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: Quantum Monte Carlo
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: High Performance Computing
         description: ''
         percent: 85
         icon: cloud
@@ -119,7 +98,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Strength Training
         description: ''
         percent: 80
         icon: person-simple-walk
@@ -135,8 +114,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Malayalam
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
