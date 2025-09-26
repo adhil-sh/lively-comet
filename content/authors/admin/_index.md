@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Adhil Abdulla M A
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Adhil
+last_name: Abdulla
 
 # Pronouns (optional)
 pronouns: he/him
